@@ -1,0 +1,11 @@
+.nav-message, .nav-score {
+    text-align: center;
+}
+
+.nav-message {
+    margin: 0px 30%;
+}
+
+* {
+    color: white;
+}
